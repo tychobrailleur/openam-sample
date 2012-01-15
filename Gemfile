@@ -9,6 +9,7 @@ gem 'activerecord-jdbcsqlite3-adapter'
 
 gem 'jruby-openssl'
 gem 'json'
+gem 'httparty'
 
 # Gems used only for assets and not required
 # in production environments by default.
