@@ -1,0 +1,6 @@
+Use this README file to introduce your application and point to useful places in the API for learning more.
+Run "rake doc:app" to generate API documentation for your models, controllers, helpers, and libraries.
+
+### OpenAM installation and basic administration
+
+https://wikis.forgerock.org/confluence/display/openam/3+OpenAM+Server+Configuration#3OpenAMServerConfiguration-CreatingUsers
